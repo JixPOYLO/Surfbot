@@ -146,7 +146,7 @@ function Board(h)
 
 function Spot(i)
 {
-    var result= 1540
+    var result= 1540 //bidart by default
 
     if (i == "bidart")
     {
