@@ -5,12 +5,6 @@ const patternDict = [
     },
 
     {
-        pattern:'(?<ww>weather|cold|warm)\\s+(in)\\s+(?<city>.+?)\\s+(?<time>today|tomorrow|the day after tomorrow)?\\?',
-       
-        intent: 'CurrentWeather'
-    }, 
-
-    {
         pattern : '\\b(bye|exit)\\b',
         intent: 'Exit'
     },
