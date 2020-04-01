@@ -1,0 +1,9 @@
+Steps
+in the console:
+-run : node server.js
+
+-last callback URL used and generated with ngrok: https://871908e2.ngrok.io
+
+
+
+ 
